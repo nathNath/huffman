@@ -1,6 +1,6 @@
 # huffman
 
-The purpose of this repo is to organize our DS project. It is part of the evaluation of the DS course @ UFPB.
+The purpose of this repo is to organize our DS project. It is a part of the evaluation of the DS course @ UFPB.
 
 The group is composed by:
 
