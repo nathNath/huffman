@@ -5,7 +5,7 @@ The purpose of this repo is to organize our DS project. It is a part of the eval
 The group is composed by:
 
 Nathália de Vasconcelos
-Natália Barreto
+Natália Barreto 
 Matheus Dantas
 Makoby Lopes
 
