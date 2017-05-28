@@ -2,12 +2,7 @@
 
 The purpose of this repo is to organize our DS project. It is a part of the evaluation of the DS course @ UFPB.
 
-The group is composed by:
-
-Nathália de Vasconcelos
-Natália Barreto 
-Matheus Dantas
-Makoby Lopes
+The group is composed by: Nathália de Vasconcelos, Natália Barreto, Matheus Dantas and Makoby Lopes.
 
 Problem: implement an encoder based on Huffman's Algorithm to text files. This encoder must have the following specs:
 1. txt file as an input
@@ -16,3 +11,9 @@ Problem: implement an encoder based on Huffman's Algorithm to text files. This e
 4. show Huffman encoding to each one of the txt chars
 
 After implementing the encoder, use the same Huffman's tree to decode. This process consists on consulting Huffman's codes and going through Huffman's tree to discover which char is determined to a determined code.
+
+Here's an SS of the project working properly:
+
+![alt text](https://github.com/nathNath/huffman/blob/master/HuffmanExample.png)
+
+Thanks!
