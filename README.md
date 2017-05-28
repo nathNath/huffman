@@ -16,4 +16,8 @@ Here's an SS of the project working properly:
 
 ![alt text](https://github.com/nathNath/huffman/blob/master/HuffmanExample.png)
 
+Here's a video showing it working:
+
+[![Click here to see the video]](https://youtu.be/7JUldv5wJgg)
+
 Thanks!
